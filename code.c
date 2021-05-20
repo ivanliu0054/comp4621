@@ -12,7 +12,7 @@
 
 
 
-#define PATH  "\Users\ivan0\OneDrive\�ୱ\COMP4621 Course Project 20535300" 
+#define PATH  "C:\Users\ivan0\OneDrive\桌面\COMP4621 Course Project 20535300" 
                                                         
 #define PORT_NO 8888
 #define BUFFER_SIZE 1024
