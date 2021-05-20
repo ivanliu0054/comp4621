@@ -12,7 +12,7 @@
 
 
 
-#define PATH  "https://github.com/ivanliu0054/comp4621/blob/main" 
+#define PATH  "https://github.com/ivanliu0054/comp4621" 
                                                         
 #define PORT_NO 8888
 #define BUFFER_SIZE 1024
