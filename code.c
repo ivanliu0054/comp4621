@@ -12,7 +12,7 @@
 
 
 
-#define PATH  "https://github.com/ivanliu0054/comp4621" 
+#define PATH  "\Users\ivan0\OneDrive\орн▒\COMP4621 Course Project 20535300" 
                                                         
 #define PORT_NO 8888
 #define BUFFER_SIZE 1024
